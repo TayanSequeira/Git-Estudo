@@ -1,1 +1,9 @@
 Esse arquivo contém informações adicionais para git
+
+
+
+
+#Comando mais genéricos
+# comandos estranhos
+
+asdasd
