@@ -12,4 +12,4 @@ git commit -m "msg"  -> faz commit do que estava para ser commitado
 6. git status 
 7. git commit -m "msg"
 8. git status
-9. volta para o passo 3.
+9. volta para o passo 3
