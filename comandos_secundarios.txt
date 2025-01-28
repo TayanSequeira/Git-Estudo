@@ -1,14 +1,11 @@
 Esse arquivo contém informações adicionais para git
 
-<<<<<<< HEAD
 - Primeira comando
 - Segundo comando
-=======
 
 
 
 #Comando mais genéricos
 # comandos estranhos
 
-asdasd
->>>>>>> secundaria
+
