@@ -35,7 +35,7 @@ xD
 
 ## Fluxo de trabalho GitHub <> Local (projeto open source)
 01. Fork do projeto para seu próprio GitHub
-02. git clone endereço do projeto>
+02. git clone <endereço do projeto>
 03. git checkout
 04. alterações de arquivos
 05. git status
