@@ -1,10 +1,19 @@
-git init .  		-> Cria um repositório git na pasta atual
-git status  		-> Mostra o status do trabalho (de cada arquivo)
-git add nome_arquivo    -> Adiciona arquivo para ser commitado
-git commit -m "msg"     -> Faz commit do que estava para ser commitado
-git diff 		-> Mostra o que foi alterado no arquivo
-git reset nome arquivo  -> Volta todos os arquivos que foram adicionados para commit
-git log 		-> Mostra todos os commits
+git init .  			-> Cria um repositório git na pasta atual
+git status  			-> Mostra o status do trabalho (de cada arquivo)
+git add nome_arquivo    	-> Adiciona arquivo para ser commitado
+git commit -m "msg"     	-> Faz commit do que estava para ser commitado
+git diff 			-> Mostra o que foi alterado no arquivo
+git reset nome arquivo  	-> Volta todos os arquivos que foram adicionados para commit
+git log 			-> Mostra todos os commits
+git checkout -b <nome-branch> 	-> Cria uma branch
+git branch			-> Visualiza branch
+git checkout <nome-branch>	-> Troca de Branch
+git branch -D <nome-branch>	-> deleta a branch
+git merge nova-branch		-> Junta as branchs
+git clone <Endereço do projeto> -> Transfere os arquivos do GitHub para repositório local
+git push origin <branch>	-> Transfere os arquivos locais para GitHub
+
+
 
 
 #Fluxo de trabalho

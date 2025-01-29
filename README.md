@@ -19,7 +19,7 @@ xD
 
 
 ## Fluxo de trabalho GitHub <> Local (projeto próprio ou empresa)
-01. git clone endereço do projeto>
+01. git clone <endereço do projeto>
 02. git checkout
 03. alterações de arquivos
 04. git status
