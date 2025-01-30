@@ -1,2 +1,5 @@
+
 Esse é um arquivo para estudo de branch
 Mais uma linha nesse arquivo
+
+Estou editando mais uma vez para um caso pratico
